@@ -1,10 +1,10 @@
 import sys
 
 def hello():
-	print("HELLO WORLD")
+	print("hello world")
 
 def welcome():
-	print("WELCOME")
+	print("welcome")
 
 def main():
 	if(sys.argv[1] == 'hello'):
